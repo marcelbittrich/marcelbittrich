@@ -1,12 +1,17 @@
-### Hi there 👋
+### Hi there! 👋
+
+My name is **Marcel Bittrich** (he/him) and I am a previous 🚗 automotive and ✈️ aeronautics engineer. Due to my passion for Video Games I pursue a career change into :space_invader: game development.
+
+- :video_game: I’m currently working on a "Asteroids" clone written in C++ with SDL2
+- :books: I’m currently learning C++ and development with the help of "C++ Primer" and "Game Engine Architecture"
 
 <!--
 **marcelbittrich/marcelbittrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- :video_game: I’m currently working on a 
+- :books: I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
