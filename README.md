@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is **Marcel Bittrich** (he/him) and I am a previous 🚗 automotive and ✈️ aeronautics engineer. Due to my passion for Video Games I pursue a career change into :space_invader: game development.
+My name is **Marcel Bittrich** *(he/him)* and I am a previous 🚗 automotive and ✈️ aeronautics engineer. Due to my passion for Video Games I pursue a career change into :space_invader: game development.
 
 - :video_game: I’m currently working on a "Asteroids" clone written in C++ with SDL2
 - :books: I’m currently learning C++ and development with the help of "C++ Primer" and "Game Engine Architecture"
