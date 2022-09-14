@@ -1,3 +1,5 @@
+![Work Screenshot](https://user-images.githubusercontent.com/113523293/190176435-0d8876bb-1b32-483e-a891-53b61a6308e4.png)
+
 # Hi there! 👋
 
 My name is **Marcel Bittrich** *(he/him)* and I am a previous 🚗 automotive and ✈️ aeronautics engineer. Due to my passion for Video Games I pursue a career change into :space_invader: game development.
@@ -21,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
