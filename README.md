@@ -1,4 +1,4 @@
-### Hi there! 👋
+# Hi there! 👋
 
 My name is **Marcel Bittrich** (he/him) and I am a previous 🚗 automotive and ✈️ aeronautics engineer. Due to my passion for Video Games I pursue a career change into :space_invader: game development.
 
