@@ -1,5 +1,5 @@
 
-![Work Screenshot 4K](https://user-images.githubusercontent.com/113523293/190177579-6fe9c938-58de-426c-a892-4907d19abe98.png)
+![Work Screenshot 4K2](https://user-images.githubusercontent.com/113523293/190179188-5b1f25c3-7354-409a-8288-b7d0a2ecf6d8.png)
 # Hi there! 👋
 
 My name is **Marcel Bittrich** *(he/him)* and I am a previous 🚗 automotive and ✈️ aeronautics engineer. Due to my passion for Video Games I pursue a career change into :space_invader: game development.
@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![Work Screenshot](https://user-images.githubusercontent.com/113523293/190176435-0d8876bb-1b32-483e-a891-53b61a6308e4.png)
-
+![Work Screenshot 4K](https://user-images.githubusercontent.com/113523293/190177579-6fe9c938-58de-426c-a892-4907d19abe98.png)
 -->
+
 
 
