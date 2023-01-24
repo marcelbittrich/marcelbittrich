@@ -4,8 +4,9 @@
 
 My name is **Marcel Bittrich** *(he/him)* and I am a previous 🚗 automotive and ✈️ aeronautics engineer. Due to my passion for Video Games I pursue a career change into :space_invader: game development.
 
-- :video_game: I’m currently working on a "Asteroids" clone written in C++ with SDL2
-- :books: I’m currently learning C++ and development with the help of "C++ Primer" and "Game Engine Architecture"
+- :video_game: I made an "Asteroids" like game written in C++ with SDL2 that you can play
+- :rocket: Next will be a lot of small Unity games to learn the engine 
+- :books: I’m also learning C++ and game development with the help of "C++ Primer" and "Game Engine Architecture"
 
 If you like to reach me feel free to say hi here or on [LinkedIn](www.linkedin.com/in/marcel-bittrich).
 
