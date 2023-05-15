@@ -10,7 +10,7 @@ Due to my passion for video games I pursued this career change and here you can 
 - 💻 I completed Udemy courses about UE5 C++ game and multiplayer development and implement my learning into my projects
 - :books: I’m also learning C++ and game development with the help of "C++ Primer" and "Game Engine Architecture"
 
-If you like to reach me feel free to say hi here or on [LinkedIn](www.linkedin.com/in/marcel-bittrich).
+If you like to reach me feel free to say hi here or on [LinkedIn](https://www.linkedin.com/in/marcel-bittrich).
 Or visit my website to see all my games at www.marcelbittrich.com.
 
 <!--
