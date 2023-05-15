@@ -2,7 +2,8 @@
 ![Work Screenshot 4K2](https://user-images.githubusercontent.com/113523293/190179188-5b1f25c3-7354-409a-8288-b7d0a2ecf6d8.png)
 # Hi there! 👋
 
-My name is **Marcel Bittrich** *(he/him)* and I am a previous 🚗 automotive and ✈️ aeronautics engineer. Due to my passion for Video Games I pursue a career change into :space_invader: game development.
+My name is **Marcel Bittrich** *(he/him)* and I am a :space_invader: game developer with a previous career in 🚗 automotive and ✈️ aeronautics engineering. 
+Due to my passion for video games I pursued this career change and here you can see my latest projects.
 
 - :video_game: I made an "Asteroids" like game written in C++ with SDL2 that you can play
 - :rocket: Next will be my own two months Unreal project 
@@ -10,6 +11,7 @@ My name is **Marcel Bittrich** *(he/him)* and I am a previous 🚗 automotive an
 - :books: I’m also learning C++ and game development with the help of "C++ Primer" and "Game Engine Architecture"
 
 If you like to reach me feel free to say hi here or on [LinkedIn](www.linkedin.com/in/marcel-bittrich).
+Or visit my website to see all my games at www.marcelbittrich.com.
 
 <!--
 **marcelbittrich/marcelbittrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
