@@ -5,8 +5,8 @@
 My name is **Marcel Bittrich** *(he/him)* and I am a :space_invader: game developer with a previous career in 🚗 automotive and ✈️ aeronautics engineering. 
 Due to my passion for video games I pursued this career change and here you can see my latest projects.
 
-- :video_game: I made an "Asteroids" like game written in C++ with SDL2 that you can play
-- :rocket: Next will be my own two months Unreal project 
+- :video_game: I made an "Asteroids" arcade game written in C++ with the SDL2 library that you can play
+- :rocket: My own Unreal Engine game "Desert Slide" as well as my react website are currently in develpment 
 - 💻 I completed Udemy courses about UE5 C++ game and multiplayer development and implement my learning into my projects
 - :books: I’m also learning C++ and game development with the help of "C++ Primer" and "Game Engine Architecture"
 
