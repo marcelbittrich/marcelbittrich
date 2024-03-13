@@ -7,9 +7,9 @@ Due to my passion for programming I pursued this career change and here you can 
 
 - :video_game: I made an "Asteroids" arcade game written in C++ with the SDL2 library that you can play
 - :rocket: If you wanna see more of my projects in a fun way, visit [my website](https://www.marcelbittrich.com) made with react
-- 💻 I completed Udemy courses about UE5 C++ game and multiplayer development and implement my new knowledge into my projects
-- :books: I have read through and can recommend "Game Programming Patterns", "Game Engine Architecture", "C++ Primer"
-- :books: Currently I am deep into "Clean Code" and "Physically Based Rendering"
+- :books: I read and can recommend "C++ Primer", "Clean Code", "Game Programming Patterns" and "Game Engine Architecture" 
+- :books: Currently I am deep into "Physically Based Rendering" and "Ray Tracing in One Weekend"
+- 💻 Completed courses in Unreal Engine 5 - C++ development and implemented my knowledge into "Desert Slide" and "Multiplayer Shooter"
 
 If you like to reach me feel free to say hi here or on [LinkedIn](https://www.linkedin.com/in/marcel-bittrich).
 Or visit my website to see all my games at www.marcelbittrich.com.
