@@ -1,6 +1,6 @@
 
 <!--![Work Screenshot 4K2](https://user-images.githubusercontent.com/113523293/190179188-5b1f25c3-7354-409a-8288-b7d0a2ecf6d8.png)-->
-![Background02](https://github.com/user-attachments/assets/bc985a93-78df-48c4-b03d-012e7d0fc7f6)
+![Background03_Bloom_Small](https://github.com/user-attachments/assets/17bd8065-a0c5-4c12-a608-afe831c11a4e)
 
 # Hi there! 👋
 
